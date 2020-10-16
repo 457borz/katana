@@ -27,7 +27,7 @@ index = 0
 def print_logo():
     for i in intro:
         print(i)
-    time.sleep(3)
+    time.sleep(7)
 
 
 def parse_args():
