@@ -1,6 +1,7 @@
 # Katana
 Simple asynchronous ssh bruteforcing tool, written in Python.
 Compatible with [masscan](https://github.com/robertdavidgraham/masscan) output.
+Can detect [Kippo](https://github.com/desaster/kippo) honeypot.
 
 ## Disclaimer
 This script is created for education purposes only!
